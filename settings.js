@@ -1,9 +1,9 @@
 //auto presence update
 global.bankname = "OPAY"
 
-global.banknumber = "66545345447766"
+global.banknumber = "695073477"
 
-global.bankowner = "PATRON"
+global.bankowner = "Caleb-debug848"
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
