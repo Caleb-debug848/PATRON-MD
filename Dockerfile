@@ -11,7 +11,7 @@ RUN apt-get update && \
   
 COPY package.json .
   
-RUN git clone https://github.com/Itzpatron/PATRON-MD
+RUN git clone https://github.com/Caleb-debug848/PATRON-MD
 
 RUN yarn install 
 
